@@ -1,0 +1,15 @@
+{
+  "name": "token-meter",
+  "version": "0.1.2",
+  "description": "Live token usage bar under each prompt in the chat: context window fill, tokens added, in/out and model calls",
+  "author": {
+    "name": "Rasoul Moafi",
+    "url": "https://github.com/rasoulMoafi"
+  },
+  "homepage": "https://github.com/rasoulMoafi/token-meter",
+  "repository": "https://github.com/rasoulMoafi/token-meter",
+  "license": "MIT",
+  "keywords": ["tokens", "usage", "context-window", "cost"],
+  "icon": "./assets/icon.png",
+  "types": "./types/index.d.ts"
+}

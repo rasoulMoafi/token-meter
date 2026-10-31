@@ -1,0 +1,15 @@
+{
+  "name": "rasoulmoafi",
+  "description": "Claude Code plugins by Rasoul Moafi",
+  "owner": {
+    "name": "Rasoul Moafi",
+    "url": "https://github.com/rasoulMoafi"
+  },
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./",
+      "description": "Live token usage bar under each prompt in the chat: context window fill, tokens added, in/out and model calls"
+    }
+  ]
+}
